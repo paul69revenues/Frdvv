@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Aniyomi: Erothots1",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.erothots1",
+    "apk": "aniyomi-all.erothots1-v1.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Erothots1",
+        "lang": "all",
+        "id": "erothots1-source-id-1",
+        "baseUrl": "https://erothots1.com/"
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: XXBrits",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.xxbrits",
+    "apk": "aniyomi-all.xxbrits-v1.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "XXBrits",
+        "lang": "all",
+        "id": "xxbrits-source-id-1",
+        "baseUrl": "https://www.xxbrits.com/"
+      }
+    ]
+  }
+]
