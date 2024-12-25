@@ -1,6 +1,6 @@
 [
   {
-    "name": "Aniyomi: Erothots1",
+    "name": "Aniyomi: EroThots1",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.erothots1",
     "apk": "aniyomi-all.erothots1-v1.0.apk",
     "lang": "all",
@@ -9,7 +9,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Erothots1",
+        "name": "EroThots1",
         "lang": "all",
         "id": "erothots1-source-id-1",
         "baseUrl": "https://erothots1.com/"
